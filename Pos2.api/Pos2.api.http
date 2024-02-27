@@ -1,0 +1,6 @@
+@Pos2.api_HostAddress = http://localhost:5140
+
+GET {{Pos2.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
